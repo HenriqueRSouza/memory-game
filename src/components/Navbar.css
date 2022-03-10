@@ -1,0 +1,46 @@
+.container-navbar{
+  display: flex;
+  height: 10vh;
+  width: 100vh;
+
+  align-items: center;
+  justify-content: center;
+  
+}
+.navbar{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar1, .navbar2, .navbar3{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.Amor{
+  height: 70px;
+  width: 70px;
+  display: flex;
+
+  margin: 0;
+
+  justify-content: center;
+  align-items:center;
+  border-radius: 50%;
+}
+
+.eu{
+  height: 70px;
+  width: 70px;
+  display: flex;
+
+  margin: 0;
+
+  justify-content: center;
+  align-items:center;
+  border-radius: 50%;
+}
