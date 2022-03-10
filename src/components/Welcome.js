@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Presente from './img/presente2.png'
 import './Welcome.css'
